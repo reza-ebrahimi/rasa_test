@@ -1,8 +1,10 @@
-### Setup
+## rasa_venv
+
+### setup
 ```console
 $ git clone https://github.com/reza-ebrahimi/rasa_venv.git
 $ cd rasa_venv
-$ tar -xvzf archive/venv-tensorflow.tar.gz venv
+$ tar -xvzf archive/venv.tar.gz venv
 ```
 
 ### activate environment
@@ -14,8 +16,12 @@ $ source venv/bin/activate
 ### deactivate environment
 ```console
 (venv) $ deactivate
+$
 ```
 
 ### running restrauntbot example
 ```console
+(venv) $ python bot.py train-nlu
+(venv) $ python bot.py train-dialogue
+(venv) $ python bot.py run
 ```
