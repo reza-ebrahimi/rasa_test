@@ -21,6 +21,7 @@ $
 
 ### running restrauntbot example
 ```console
+(venv) $ cd restaurantbot/
 (venv) $ python bot.py train-nlu
 (venv) $ python bot.py train-dialogue
 (venv) $ python bot.py run
