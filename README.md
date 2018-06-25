@@ -1,17 +1,17 @@
 ### Setup
 ```console
-$ git clone https://github.com/reza-ebrahimi/rasa_test.git
-$ cd rasa_test
-$ tar -xvzf venv.tar.gz
+$ git clone https://github.com/reza-ebrahimi/rasa_venv.git
+$ cd rasa_venv
+$ tar -xvzf archive/venv-tensorflow.tar.gz venv
 ```
 
-### activate rasa environment
+### activate environment
 ```console
 $ source venv/bin/activate
 (venv) $
 ```
 
-### deactivate rasa environment
+### deactivate environment
 ```console
 (venv) $ deactivate
 ```
