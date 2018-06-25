@@ -1,2 +1,2 @@
-model_checkpoint_path: "/home/rebrahimi/Desktop/virtualenv/restaurantbot/models/nlu/default/current/intent_classifier_tensorflow_embedding.ckpt"
-all_model_checkpoint_paths: "/home/rebrahimi/Desktop/virtualenv/restaurantbot/models/nlu/default/current/intent_classifier_tensorflow_embedding.ckpt"
+model_checkpoint_path: "/home/rebrahimi/Desktop/rasa_venv/restaurantbot/models/nlu/default/current/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/rebrahimi/Desktop/rasa_venv/restaurantbot/models/nlu/default/current/intent_classifier_tensorflow_embedding.ckpt"
